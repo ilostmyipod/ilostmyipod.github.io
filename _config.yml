@@ -1,21 +1,18 @@
 title: ilostmyipod
 email:
 description: >-
-  Notes, projects, experiments, and random things from the internet.
+  Personal projects, writeups, experiments, and random things from the internet.
 
-twitter_username:
 github_username: ilostmyipod
 minimal_mistakes_skin: dark
 search: true
 
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes"
 
 permalink: /:categories/:title/
-
 paginate: 5
 paginate_path: /page:num/
-
 timezone: America/Denver
 
 include:
@@ -30,32 +27,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ilostmyipod"
-  avatar : "/assets/images/bio-image.jpg"
-  bio    : "Building things, breaking things, and documenting both."
-  location : "Colorado"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ilostmyipod"
-
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
-    - label: "X.com"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/lightfighter719"
+  name: "ilostmyipod"
+  avatar: "/assets/images/bio-image.png"
+  bio: "Retro tech, jailbreaks, hardware mods, low-level experiments, and internet archaeology."
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ilostmyipod"
-
-    - label: "X.com"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/lightfighter719"
 
 defaults:
   - scope:
@@ -65,7 +45,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
       share: true
       related: true
 
