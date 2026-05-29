@@ -1,4 +1,4 @@
-# ilostmyipod
+# [![pages-build-deployment](https://github.com/ilostmyipod/ilostmyipod.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ilostmyipod/ilostmyipod.github.io/actions/workflows/pages/pages-build-deployment)
 
 > Retro tech, jailbreaks, hardware mods, low-level experiments, and internet archaeology.
 
