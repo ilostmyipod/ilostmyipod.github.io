@@ -5,9 +5,6 @@
 > Retro tech, jailbreaks, hardware mods, low-level experiments, and internet archaeology.
 
 <p align="center">
-  <a href="https://github.com/ilostmyipod/ilostmyipod.github.io/actions/workflows/jekyll.yml">
-    <img src="https://github.com/ilostmyipod/ilostmyipod.github.io/actions/workflows/jekyll.yml/badge.svg" alt="Jekyll Build">
-  </a>
   <a href="https://github.com/ilostmyipod/ilostmyipod.github.io/actions/workflows/pages/pages-build-deployment">
     <img src="https://github.com/ilostmyipod/ilostmyipod.github.io/actions/workflows/pages/pages-build-deployment/badge.svg" alt="Pages Deployment">
   </a>
