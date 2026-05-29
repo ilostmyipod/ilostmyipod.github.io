@@ -4,6 +4,8 @@ description: >-
   Personal projects, writeups, experiments, and random things from the internet.
 
 github_username: ilostmyipod
+repository: ilostmyipod/ilostmyipod.github.io
+
 minimal_mistakes_skin: dark
 search: true
 
